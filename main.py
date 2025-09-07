@@ -8,7 +8,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-st.write("# VEHICLE INCIDENTS IN ENGLAND :pickup_truck:")
+st.write("# STUFF IN ENGLAND :pickup_truck:")
 
 st.sidebar.success("Select a demo above.")
 
